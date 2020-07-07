@@ -1,7 +1,10 @@
 # Rough Draft
 
 ```
-5646480 Geonhwi Sim
+// Project Checkpoint - Final project
+// Geonhwi Sim
+// CS099
+// spring 2020
 ```
 **CS 099 – R o u g h D r a f t**
 
