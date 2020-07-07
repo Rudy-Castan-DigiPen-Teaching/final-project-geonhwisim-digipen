@@ -18,8 +18,7 @@
 - Get an idea from Korean mobile game “놈3”, Super Mario
 
 ## Setting
-- Playerwillplay on two dimensional platform.
-- Character will be moved by arrow keys.
+[setting](images/03.png)
 
 ## Scenario
 - When you woke up in the room, you were imprisoned in
