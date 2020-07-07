@@ -1,4 +1,4 @@
-// Project Checkpoint - Prototype
+// Project Checkpoint - Final project
 // Geonhwi Sim
 // CS099
 // spring 2020
