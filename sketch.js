@@ -31,7 +31,6 @@ var wall_number = {
 }
 var current_wall = wall_number.down_wall;
 
-var running_man = []
 var googlyEyes1 = []
 var googlyEyes2 = []
 var googlyEyes3 = []
