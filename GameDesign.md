@@ -49,6 +49,7 @@
 
 ## Character
 - Black shadow man
+![black_man](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-geonhwisim-digipen/blob/master/images/07.PNG)
 
 ## Main menu
 - Key Icon will be Exit button
