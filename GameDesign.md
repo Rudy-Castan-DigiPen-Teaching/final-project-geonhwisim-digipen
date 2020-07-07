@@ -53,7 +53,10 @@
 
 ## Main menu
 - Key Icon will be Exit button
+![main](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-geonhwisim-digipen/blob/master/images/08.PNG)
 
 ## Option
+![option](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-geonhwisim-digipen/blob/master/images/09.PNG)
 
 ## Credit
+![credit](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-geonhwisim-digipen/blob/master/images/10.PNG)
