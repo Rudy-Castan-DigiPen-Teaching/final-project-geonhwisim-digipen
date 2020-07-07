@@ -18,7 +18,7 @@
 - Get an idea from Korean mobile game “놈3”, Super Mario
 
 ## Setting
-[setting](images/03.png)
+[setting](https://github.com/Rudy-Castan-DigiPen-Teaching/final-project-geonhwisim-digipen/blob/master/images/03.PNG)
 
 ## Scenario
 - When you woke up in the room, you were imprisoned in
